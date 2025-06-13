@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Czech Novel Corpus for the ELTeC</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ELTeC</publisher>
+        <idno type="URI" xml:base="https://eltec.dracor.org/">cze</idno>
+        <idno type="repo">https://github.com/COST-ELTeC/ELTeC-cze/</idno>
+        <availability>
+          <licence target="https://creativecommons.org/share-your-work/public-domain/cc0/">
+            CC0
+          </licence>
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This is the Czech Novel Corpus for the ELTeC, the European Literary Text Collection, produced by the COST Action Distant Reading for European Literary History (CA16204, <ref target="https://distant-reading.net">distant-reading.net</ref>).
+        </p>
+        <p>
+          This repository is maintained by the Institute of the Czech National Corpus, Charles University, Prague,  <ref target="https://ucnk.ff.cuni.cz/en/">ucnk.ff.cuni.cz/en/</ref>
+        </p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+</teiCorpus>
