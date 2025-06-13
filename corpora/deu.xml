@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>German Novel Corpus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ELTeC</publisher>
+        <idno type="URI" xml:base="https://eltec.dracor.org/">deu</idno>
+        <idno type="repo">https://github.com/COST-ELTeC/ELTeC-deu</idno>
+        <availability>
+          All texts included in this collection are in the public domain. The
+          textual markup is provided with a
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative
+          Commons Attribution International 4.0 (CC BY)</licence>.
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This is the German novel collection for the ELTeC, the European
+          Literary Text Collection, produced by the COST Action Distant Reading
+          for European Literary History (CA16204,
+          <ref target="https://distant-reading.net">https://distant-reading.net</ref>).
+        </p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+</teiCorpus>

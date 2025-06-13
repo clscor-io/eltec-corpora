@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>French Novel Corpus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ELTeC</publisher>
+        <idno type="URI" xml:base="https://eltec.dracor.org/">fra</idno>
+        <idno type="repo">https://github.com/COST-ELTeC/ELTeC-fra</idno>
+        <idno type="DOI"></idno>
+        <availability>
+          All texts included in this collection are in the public domain. No
+          claim to copyright or similar protections is made for the composition
+          of the corpus, the collection and presentation of the metadata, or the
+          transcription and encoding of the texts.
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This is the French novel corpus for the ELTeC, the *European Literary
+          Text Collection*, produced by the COST Action *Distant Reading for
+          European Literary History* (CA16204,
+          <ref target="https://distant-reading.net">https://distant-reading.net</ref>).
+          The current version is v1.0.1.
+        </p>
+        <p>
+          Note that this corpus is also available in a linguistically-annotated
+          format prepared for direct import into the text analysis tool TXM; see
+          here:
+          [10.5281/zenodo.4274478](https://doi.org/10.5281/zenodo.4274478).
+          This format is based on v1.0.0 of the corpus.
+        </p>
+        <p>
+          An overview over the authors and works represented in the collection
+          can be gained here:
+          https://distantreading.github.io/ELTeC/fra/index.html.
+        </p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+</teiCorpus>

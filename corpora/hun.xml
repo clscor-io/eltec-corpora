@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hungarian Novel Corpus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ELTeC</publisher>
+        <idno type="URI" xml:base="https://eltec.dracor.org/">hun</idno>
+        <idno type="repo">https://github.com/COST-ELTeC/ELTeC-hun</idno>
+        <idno type="DOI"></idno>
+        <availability>
+          All texts included in this collection are in the public domain. The
+          markup is published with a
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative
+          Commons Attribution (CC BY) licence</licence>.
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This is the Hungarian novel corpus for the ELTeC, the European
+          Literary Text Collection, produced by the COST Action Distant Reading
+          for European Literary History (CA16204,
+          <ref target="https://distant-reading.net">https://distant-reading.net</ref>).
+        </p>
+        <p>
+          This repository is maintained by the Centre for Digital Humanities at
+          the Eötvös University of Sciences (ELTE.DH  www.elte-dh.hu)
+        </p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+</teiCorpus>

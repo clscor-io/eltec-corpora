@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Spanish Novel Corpus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ELTeC</publisher>
+        <idno type="URI" xml:base="https://eltec.dracor.org/">spa</idno>
+        <idno type="repo">https://github.com/COST-ELTeC/ELTeC-spa</idno>
+        <idno type="DOI"></idno>
+        <availability>
+          All texts included in this collection are in the public domain. The
+          textual markup is provided with a
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative
+          Commons Attribution International 4.0 (CC BY)</licence>.
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          Spanish novel collection for the ELTeC (European Literary Text
+          Collection). Novels selected by Borja Navarro Colorado. Any comment,
+          please, <ref target="https://www.dlsi.ua.es/eines/membre.cgi?id=eng&amp;nom=borja">contact me</ref>.
+        </p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+</teiCorpus>

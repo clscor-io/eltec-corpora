@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>English Novel Corpus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ELTeC</publisher>
+        <idno type="URI" xml:base="https://eltec.dracor.org/">eng</idno>
+        <idno type="repo">https://github.com/COST-ELTeC/ELTeC-eng</idno>
+        <idno type="DOI"></idno>
+        <availability>
+          All texts included in this collection are in the public domain. The
+          textual markup is provided with a
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative
+          Commons Attribution International 4.0 (CC BY)</licence>.
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This is the English novel collection for the ELTeC, the European
+          Literary Text Collection, produced by the COST Action Distant Reading
+          for European Literary History (CA16204,
+          <ref target="https://distant-reading.net">https://distant-reading.net</ref>).
+        </p>
+        <bibl>
+          <title>English Novel Corpus (ELTeC-eng)</title>, edited by Lou
+          Burnard. In: <title>European Literary Text Collection (ELTeC).</title>
+          COST Action Distant Reading for European Literature. Version 1.0.1,
+          April 2021. URL: https://github.com/COST-ELTeC/ELTeC-eng,
+          DOI: https://doi.org/10.5281/zenodo.3533868.
+        </bibl>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+</teiCorpus>
