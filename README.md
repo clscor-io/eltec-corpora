@@ -1,6 +1,6 @@
 # ELTeC Programmable Corpora
 
-This repos combines the corpora included in the ELTeC Programmable Corpora
+This repo combines the corpora included in the ELTeC Programmable Corpora
 project. The original corpus repositories are included as submodules.
 
 ## Getting started
