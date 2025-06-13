@@ -1,2 +1,3 @@
-# registry
-Registry for ELTeC corpora
+# ELTeC Registry
+
+Registry of corpora included in the ELTeC Programmable Corpora project.
