@@ -1,0 +1,36 @@
+[submodule "corpora/ELTeC-cze"]
+	path = corpora/ELTeC-cze
+	url = https://github.com/COST-ELTeC/ELTeC-cze
+[submodule "corpora/ELTeC-deu"]
+	path = corpora/ELTeC-deu
+	url = https://github.com/COST-ELTeC/ELTeC-deu
+[submodule "corpora/ELTeC-eng"]
+	path = corpora/ELTeC-eng
+	url = https://github.com/COST-ELTeC/ELTeC-eng
+[submodule "corpora/ELTeC-fra"]
+	path = corpora/ELTeC-fra
+	url = https://github.com/COST-ELTeC/ELTeC-fra
+[submodule "corpora/ELTeC-gsw"]
+	path = corpora/ELTeC-gsw
+	url = https://github.com/COST-ELTeC/ELTeC-gsw
+[submodule "corpora/ELTeC-hun"]
+	path = corpora/ELTeC-hun
+	url = https://github.com/COST-ELTeC/ELTeC-hun
+[submodule "corpora/ELTeC-pol"]
+	path = corpora/ELTeC-pol
+	url = https://github.com/COST-ELTeC/ELTeC-pol
+[submodule "corpora/ELTeC-por"]
+	path = corpora/ELTeC-por
+	url = https://github.com/COST-ELTeC/ELTeC-por
+[submodule "corpora/ELTeC-rom"]
+	path = corpora/ELTeC-rom
+	url = https://github.com/COST-ELTeC/ELTeC-rom
+[submodule "corpora/ELTeC-slv"]
+	path = corpora/ELTeC-slv
+	url = https://github.com/COST-ELTeC/ELTeC-slv
+[submodule "corpora/ELTeC-spa"]
+	path = corpora/ELTeC-spa
+	url = https://github.com/COST-ELTeC/ELTeC-spa
+[submodule "corpora/ELTeC-srp"]
+	path = corpora/ELTeC-srp
+	url = https://github.com/COST-ELTeC/ELTeC-srp
