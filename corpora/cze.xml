@@ -9,7 +9,7 @@
         <publisher>ELTeC</publisher>
         <idno type="URI" xml:base="https://eltec.dracor.org/">cze</idno>
         <idno type="repo">https://github.com/COST-ELTeC/ELTeC-cze</idno>
-        <idno type="DOI"></idno>
+        <idno type="DOI">10.5281/zenodo.4662459</idno>
         <availability>
           All texts included in this collection are in the public domain.
         </availability>

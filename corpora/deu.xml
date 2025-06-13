@@ -9,6 +9,7 @@
         <publisher>ELTeC</publisher>
         <idno type="URI" xml:base="https://eltec.dracor.org/">deu</idno>
         <idno type="repo">https://github.com/COST-ELTeC/ELTeC-deu</idno>
+        <idno type="DOI">10.5281/zenodo.3543243</idno>
         <availability>
           All texts included in this collection are in the public domain. The
           textual markup is provided with a

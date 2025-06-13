@@ -9,7 +9,7 @@
         <publisher>ELTeC</publisher>
         <idno type="URI" xml:base="https://eltec.dracor.org/">slv</idno>
         <idno type="repo">https://github.com/COST-ELTeC/ELTeC-slv</idno>
-        <idno type="DOI"></idno>
+        <idno type="DOI">10.5281/zenodo.3518108</idno>
         <availability>
           All texts included in this collection are in the public domain. The
           textual markup is provided with a
