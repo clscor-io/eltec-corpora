@@ -7,7 +7,7 @@
       </titleStmt>
       <publicationStmt>
         <publisher>ELTeC</publisher>
-        <idno type="URI" xml:base="https://eltec.dracor.org/">por</idno>
+        <idno>por</idno>
         <idno type="repo">https://github.com/COST-ELTeC/ELTeC-por</idno>
         <idno type="DOI">10.5281/zenodo.3492067</idno>
         <availability>
