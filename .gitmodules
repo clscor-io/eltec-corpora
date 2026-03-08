@@ -3,10 +3,10 @@
 	url = https://github.com/COST-ELTeC/ELTeC-cze
 [submodule "corpora/ELTeC-deu"]
 	path = corpora/ELTeC-deu
-	url = https://github.com/COST-ELTeC/ELTeC-deu
+	url = https://github.com/clscor-io/ELTeC-deu
 [submodule "corpora/ELTeC-eng"]
 	path = corpora/ELTeC-eng
-	url = https://github.com/COST-ELTeC/ELTeC-eng
+	url = https://github.com/clscor-io/ELTeC-eng
 [submodule "corpora/ELTeC-fra"]
 	path = corpora/ELTeC-fra
 	url = https://github.com/COST-ELTeC/ELTeC-fra
@@ -18,7 +18,7 @@
 	url = https://github.com/COST-ELTeC/ELTeC-hun
 [submodule "corpora/ELTeC-pol"]
 	path = corpora/ELTeC-pol
-	url = https://github.com/COST-ELTeC/ELTeC-pol
+	url = https://github.com/clscor-io/ELTeC-pol
 [submodule "corpora/ELTeC-por"]
 	path = corpora/ELTeC-por
 	url = https://github.com/COST-ELTeC/ELTeC-por
