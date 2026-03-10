@@ -30,7 +30,7 @@
 	url = https://github.com/COST-ELTeC/ELTeC-slv
 [submodule "corpora/ELTeC-spa"]
 	path = corpora/ELTeC-spa
-	url = https://github.com/COST-ELTeC/ELTeC-spa
+	url = https://github.com/clscor-io/ELTeC-spa
 [submodule "corpora/ELTeC-srp"]
 	path = corpora/ELTeC-srp
 	url = https://github.com/COST-ELTeC/ELTeC-srp
